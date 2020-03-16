@@ -1,0 +1,34 @@
+{
+    "strangeProducts": [
+      {
+        "name" : "A bacon-scented mustache",
+        "price" : 4.07,
+        "details" : "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+        "image" : "baconMustache.jpg"
+      },
+      {
+        "name" : "A dog dryer",
+        "price" : 39.95,
+        "details" : "Having a dog dry itself off all over your living room post-bath is rarely ideal. Fortunately, there's a bizarre blow-dryer suit out there that can help keep your pup from dripping all over the house.",
+        "image" : "dogDryer.jpg"
+      },
+      {
+        "name" : "A Godzilla garden gnome",
+        "price" : 24.99,
+        "details" : "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+        "image" : "godzilla.jpg"
+      },
+      {
+        "name" : "Dill pickle lip balm",
+        "price" : 11.95,
+        "details" : "Some people want their mouths to be minty fresh, or sweetly scented. And others just want their lips to have the distinct flavor of something that might accompany a pastrami sandwich.",
+        "image" : "dillPickle.jpg"
+      },
+      {
+        "name" : "A pizza hat",
+        "price" : 11.62,
+        "details" : "Finally, you can indulge in everyone's life-long desire of wearing pizza atop their head. Beware the sprinkled parmesan as you nod or shake your head, though—some might mistake it for dandruff.",
+        "image" : "pizzaHat.jpg"
+      }
+    ]
+}
